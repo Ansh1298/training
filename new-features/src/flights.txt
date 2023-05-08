@@ -1,0 +1,5 @@
+765,jet,kochi,kolkata
+123,indigo,mumbai,goa
+920,indigo,pune,delhi
+369,jet,chennai,hyderabad
+467,jet,mumbai,varanasi
